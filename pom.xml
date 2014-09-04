@@ -97,6 +97,7 @@
             <activeByDefault>true</activeByDefault>
         </activation>
         <properties>
+            <project.env>dev</project.env>
             <db.driverClassName>com.mysql.jdbc.Driver</db.driverClassName>
         </properties>
         <build>
